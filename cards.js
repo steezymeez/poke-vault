@@ -1,0 +1,1 @@
+window.CARD_INDEX={"built":"2026-10-12","sets":[],"cards":[]};

@@ -1,0 +1,14 @@
+{
+  "name": "Poké Vault",
+  "short_name": "Poké Vault",
+  "description": "Steven's Pokémon collection: prices, deals, buy list and alerts.",
+  "start_url": "./?source=app",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef6fd",
+  "theme_color": "#1a7fcc",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
